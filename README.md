@@ -17,7 +17,7 @@ A simple Random Quotes App.
 
 
 
-<p><img src="https://github.com/ismaelmarot/Calculator_02/blob/master/img/calc_img_00.gif" align="centre" width="100%"/></p>
+<p><img src="https://github.com/ismaelmarot/random-quotes-app/blob/master/img/caps/src/img/caps/ezgif.com-video-to-gif.gif" align="centre" width="100%"/></p>
 
 
 -----------;;

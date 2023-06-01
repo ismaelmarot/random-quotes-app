@@ -14,8 +14,6 @@ A simple Random Quotes App.
 ------------
 #### SCREENSHOTS
 
-<p><img src="https://github.com/ismaelmarot/Calculator_02/blob/master/img/calc_img_00.gif" align="centre" width="100%"/></p>
-
-![CalculatorApp-capture](https://user-images.githubusercontent.com/43220852/209637186-9d579277-2fd8-40bb-b1b0-9795a2dcddff.jpg)
+[![ezgif-com-video-to-gif.gif](https://i.postimg.cc/QMFVQ3t5/ezgif-com-video-to-gif.gif)](https://postimg.cc/p9t2v3KX)
 
 [![RFQ-screenshot.png](https://i.postimg.cc/hvzqYy9J/RFQ-screenshot.png)](https://postimg.cc/5QVGYmK1)
